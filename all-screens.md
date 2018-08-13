@@ -8,7 +8,7 @@
 
 ### Username selection 
 
-![2 -account selection](images/2 -account selection.png)
+![2_account selection](images/2_account selection.png)
 
 ### Product selection with comments 
 
